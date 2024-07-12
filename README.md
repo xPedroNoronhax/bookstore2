@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Bookstore
 
 Bookstore APP from Backend Python course from EBAC
@@ -48,3 +49,6 @@ Docker && docker-compose
 
 
 
+=======
+# bookstore2
+>>>>>>> 6455595f97b5489227ada5ea57ec73bd32676a34
